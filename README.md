@@ -2,11 +2,13 @@
 
 # Toptipper
 
-1. **Systemvoraussetzung**
-2. **Zur Erklärung der Dateien**
-3. **Download**
+1. 
 
-Das Addon TopTipper gibt Ihnen eine Anzeige des Tabellenstandes im Tippspiel des LMO's.
+| 1. **Systemvoraussetzung**<br/>2. **Zur Erklärung der Dateien**<br/>3.  Download         |                                                                                          |
+|:---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Das Addon TopTipper gibt Ihnen eine Anzeige des Tabellenstandes im Tippspiel des LMO's.) | ![](C:\Users\Dietmar%20Kersting\Documents\GitHub\Toptipper\lmo\help\media\toptipper.png) |
+
+
 
 ---
 
