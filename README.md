@@ -8,6 +8,7 @@ Das Addon TopTipper gibt Ihnen eine Anzeige des Tabellenstandes im Tippspiel des
 
 ## Systemvoraussetzung
 -----------------------------------------------------------------------------------------
+Lauffähiger LMO 4 ab Beta 3 mit Tippspiel
 
 ## Zur Erklaerung der Dateien
 -----------------------------------------------------------------------------------------
