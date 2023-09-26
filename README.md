@@ -39,7 +39,7 @@ Der Inhalt des Downloads besteht aus 4 Dateien.
 | anzahl_tipper=10  | **// Anzahl der Tipper in der Anzeige**                                              |
 | all=0             | **// 0 oder 1, 0 zeigt das file (eine Liga), 1 die gesamt.aus (bei mehreren Ligen)** |
 | file=erg_dfb.l98  | **// eure Liga**                                                                     |
-| template=standard | **// Template Name ohne die Endung *.tpl.php**                                       |
+| template=standard | **// Template Name ohne die Endung (.tpl.php)**                                      |
 
 
 
