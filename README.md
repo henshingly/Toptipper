@@ -1,12 +1,10 @@
-![Toptipper](C:\Users\Dietmar%20Kersting\Documents\GitHub\Toptipper\lmo\help\media\h1.png)
+![Toptipper](/lmo/help/media/h1.png)
 
 # Toptipper
 
-1. 
-
 | 1. **Systemvoraussetzung**<br/>2. **Zur Erklärung der Dateien**<br/>3.  Download         |                                                                                          |
 |:---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Das Addon TopTipper gibt Ihnen eine Anzeige des Tabellenstandes im Tippspiel des LMO's.) | ![](C:\Users\Dietmar%20Kersting\Documents\GitHub\Toptipper\lmo\help\media\toptipper.png) |
+| Das Addon TopTipper gibt Ihnen eine Anzeige des Tabellenstandes im Tippspiel des LMO's.) | ![](/lmo/help/media/toptipper.png) |
 
 
 
