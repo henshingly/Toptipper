@@ -51,7 +51,7 @@ Der Inhalt des Downloads besteht aus 4 Dateien.
 > Das Template kann beliebig erstellt werden. Verfügbare Platzhalter sind derzeit:
 
 > | **<!--Link-->**   | Der Link zum Tippspiel         |
-> | -----------------:| ------------------------------ |
+> | -----------------:|:------------------------------ |
 > | **<!--Lmo-->**    | **Der Link zum LMO**           |
 > | **<!--Platz-->**  | **Die Platzierung der Tipper** |
 > | **<!--Name-->**   | **Der Name der Tipper**        |
