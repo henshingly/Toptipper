@@ -1,4 +1,4 @@
-![Addons für den LMO](https://github.com/henshingly/Toptipper/blob/main/lmo/help/media/LMO.svg)
+![Addons für den LMO](https://github.com/henshingly/Toptipper/blob/main/lmo/help/media/addon.svg)
 # Toptipper
 
 ## Deutsch
