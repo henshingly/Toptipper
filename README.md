@@ -2,7 +2,6 @@
 # Toptipper
 [![GitHub release](https://img.shields.io/github/release/henshingly/Toptipper?include_prereleases=&sort=semver&color=blue)](https://github.com/henshingly/Toptipper/releases/)
 [![download-badge](https://img.shields.io/github/downloads/henshingly/Toptipper/total.svg?style=flat-square "Download status")](https://github.com/henshingly/Toptipper/releases/latest "Download status")
------
 [![Donate](https://img.shields.io/badge/-You%20could%20buy%20me%20a%20coffee-brown.svg)](https://www.paypal.com/paypalme/henshingly)
 
 ## Deutsch
