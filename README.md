@@ -2,7 +2,7 @@
 # Toptipper
 [![GitHub release](https://img.shields.io/github/release/henshingly/Toptipper?include_prereleases=&sort=semver&color=blue)](https://github.com/henshingly/Toptipper/releases/)
 ![GitHub all releases](https://img.shields.io/github/downloads/henshingly/Toptipper/total)
-[![Donate](https://img.shields.io/badge/-You%20could%20buy%20me%20a%20coffee-brown.svg)](https://www.paypal.com/paypalme/henshingly)
+[![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-brown.svg)](https://www.paypal.com/paypalme/henshingly)
 
 ## Deutsch
 
