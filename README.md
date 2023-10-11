@@ -1,4 +1,4 @@
-![Addons für den LMO](https://github.com/henshingly/Toptipper/blob/main/lmo/help/media/addon.svg)
+[![Addons für den LMO](https://github.com/henshingly/Toptipper/blob/main/lmo/help/media/addon.svg)](https://www.vest-sport.de/forum)
 # Toptipper
 [![GitHub release](https://img.shields.io/github/release/henshingly/Toptipper?include_prereleases=&sort=semver&color=blue)](https://github.com/henshingly/Toptipper/releases/)
 [![download-badge](https://img.shields.io/github/downloads/henshingly/Toptipper/total.svg?style=flat-square "Download status")](https://github.com/henshingly/Toptipper/releases/latest "Download status")
