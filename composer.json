@@ -15,6 +15,5 @@
     ],
     "require": {
         "php": ">=8.0.0"
-        "henshingly/LMO_PHP8": "4.1.*"
-    }
+    },
 }
