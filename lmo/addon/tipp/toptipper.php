@@ -1,4 +1,4 @@
-<?PHP
+<?php
 require(dirname(__FILE__) . '/../../init.php');
 require_once(PATH_TO_LMO . "/lmo-cfgload.php");
 require_once(PATH_TO_LMO . "/lmo-langload.php");

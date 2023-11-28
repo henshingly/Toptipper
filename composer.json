@@ -1,0 +1,20 @@
+{
+    "name": "henshingly/toptipper",
+    "type": "addon",
+    "description": "With the TopTipper addon you get a display of the table positions in the betting game as a mini table.",
+    "keywords": ["LMO","Liga Manager Online","LMO Addon"],
+    "homepage": "https://github.com/henshingly/toptipper",
+    "license": "AGPL-3.0-only",
+    "authors": [
+        {
+            "name": "Dietmar Kersting",
+            "email": "henshingly@vest-sport.de",
+            "homepage": "https://www.vest-sport.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0",
+        "henshingly/lmo_php8": "4.1.*"
+    }
+}
