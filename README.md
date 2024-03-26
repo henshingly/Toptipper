@@ -1,4 +1,4 @@
-[<img src="https://www.vest-sport.de/forum_files/addon_toptipper.svg">](https://www.vest-sport.de/forum)
+[<img src="https://www.vest-sport.de/forum_files/hack_volleyball.svg">](https://www.vest-sport.de/forum)
 # Toptipper
 [![GitHub release](https://img.shields.io/github/release/henshingly/Toptipper?include_prereleases=&sort=semver&color=blue)](https://github.com/henshingly/Toptipper/releases/)
 [![download-badge](https://img.shields.io/github/downloads/henshingly/Toptipper/total.svg?style=flat-square "Download status")](https://github.com/henshingly/Toptipper/releases/latest "Download status")
