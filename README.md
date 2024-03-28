@@ -1,41 +1,38 @@
 [<img src="https://www.vest-sport.de/forum_files/addon_toptipper.svg">](https://www.vest-sport.de/forum)
+
 # Toptipper
+
 [![GitHub release](https://img.shields.io/github/release/henshingly/Toptipper?include_prereleases=&sort=semver&color=blue)](https://github.com/henshingly/Toptipper/releases/)
 [![download-badge](https://img.shields.io/github/downloads/henshingly/Toptipper/total.svg?style=flat-square "Download status")](https://github.com/henshingly/Toptipper/releases/latest "Download status")
 [![Donate](https://img.shields.io/badge/-Buy%20me%20a%20coffee-brown.svg)](https://paypal.me/LMOforum)
 
 ## Deutsch
 
-| 1. **Systemvoraussetzung**<br/>2. **Zur Erklärung der Dateien**<br/>3. **Download**         |                                    |
-|:------------------------------------------------------------------------------------------- | ---------------------------------- |
-| Das Addon TopTipper gibt Ihnen eine Anzeige<br>des Tabellenstandes im Tippspiel des LMO's.) | ![](/lmo/help/media/toptipper.png) |
-
+| 1. **Systemvoraussetzung**<br/>2. **Zur Erklärung der Dateien**<br/>3. **Download** |                                                          |
+|:----------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Das Addon TopTipper zeigt eine Minitabelle<br>der Tipper im Tippspiel Deines LMO's. | ![](https://www.vest-sport.de/forum_files/toptipper.png) |
 
 ---
 
 ### Systemvoraussetzung
 
-- Lauffähiger LMO 4 ab Beta 3 mit Tippspiel
+- Lauffähiger LMO 4 mit Tippspiel
 
 ---
 
 ### Zur Erklärung der Dateien
 
-Der Inhalt des Downloads besteht aus 4 Dateien.
-
-
+Der Inhalt des Downloads besteht aus 5 Dateien.
 
 **toptipper.php**
 
-Addon Datei<br>
+Addon Datei
 befindet sich im Ordner 'addon/tipp/'
-
-
 
 **kal.tip**
 
-befindet sich im Ordner 'config/tipp/'<br>
-Ist für die Konfiguration und kann beliebig umbenannt werden. Hauptsache die Dateiendung ***.tipp** bleibt bestehen und der neue Name wird auch beim einbinden berücksichtigt.  
+befindet sich im Ordner 'config/tipp/'
+Ist für die Konfiguration zuständig und kann beliebig umbenannt werden. Hauptsache die Dateiendung ***.tipp** bleibt bestehen und der neue Name wird auch beim einbinden  berücksichtigt (siehe tipp.php).  
 
 - Der Inhalt der Datei besteht aus  
 
@@ -47,12 +44,11 @@ Ist für die Konfiguration und kann beliebig umbenannt werden. Hauptsache die Da
 | file=erg_dfb.l98  | **// eure Liga**                                                                     |
 | template=standard | **// Template Name ohne die Endung (.tpl.php)**                                      |
 
+**standard.tpl.php** und **round.tpl.php** (Beispieltemplates)
 
+befinden sich im Ordner 'template/tipp/'
 
-**standard.tpl.php**
-
-befindet sich im Ordner 'template/tipp/'<br>
-Das Template kann beliebig erstellt werden. Verfügbare Platzhalter sind derzeit:
+Die Templates können beliebig erstellt werden. Verfügbare Platzhalter sind derzeit:
 | Platzhalter      | Beschreibung                            |
 | ----------------:|:--------------------------------------- |
 | `<!--URLTipp-->` | **Der Link zum Tippspiel**              |
@@ -63,13 +59,10 @@ Das Template kann beliebig erstellt werden. Verfügbare Platzhalter sind derzeit
 | `<!--Name-->`    | **Der Name der Tipper**                 |
 | `<!--Punkte-->`  | **Die Punkte der Tipper**               |
 
-
-
 **tipp.php**
 
 befindet sich direkt im Root_Verzeichniss Ihres LMO's.
-
-Dient zum Einbinden des ganzen Scriptes (Inhalt anpassen)
+Diese ist eigentlich nur eine Beispieldatei und dient zum Einbinden des ganzen Scriptes (Inhalt anpassen)
 
 - Beispiel:
 
@@ -85,60 +78,54 @@ Dient zum Einbinden des ganzen Scriptes (Inhalt anpassen)
 
 ### Download
 
-- [Download](https://github.com/henshingly/Toptipper/tags)
+- [Download](https://github.com/henshingly/Toptipper/releases/)
 
 ---
 
-
 ## English
 
-| 1. **Systemrequirement**<br/>2. **To explain the files**<br/>3. **Download**                  |                                    |
-|:--------------------------------------------------------------------------------------------- | ---------------------------------- |
-| The TopTipper addon gives you a display<br>of the table standings in the LMO's betting game.) | ![](/lmo/help/media/toptipper.png) |
-
+| 1. **Systemrequirement**<br/>2. **To explain the files**<br/>3. **Download**          |                                                          |
+|:------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| The TopTipper addon shows a mini table<br>of the tipsters in your LMO's betting game. | ![](https://www.vest-sport.de/forum_files/toptipper.png) |
 
 ---
 
 ### Systemrequirement
 
-- Runnable LMO 4 from Beta 3 with betting game
+- Runnable LMO 4 with betting game
 
 ---
 
 ### To explain the files
 
-The content of the download consists of 4 files.
-
-
+The content of the download consists of 5 files.
 
 **toptipper.php**
 
-Addon File<br>
+Addon File
 is in the folder 'addon/tipp/'
-
-
 
 **kal.tip**
 
-is in the folder 'config/tipp/'<br>
-Is for configuration and can be renamed as desired. The main thing is that the file extension *.tipp remains and the new name is also taken into account when integrating.  
+located in the 'config/tipp/' folder
+Is responsible for the configuration and can be renamed as desired. The main thing is that the file extension ***.tipp** remains and the new name is also taken into account when integrating (see tipp.php).
 
 - The content of the file consists of
 
-| [config]          |                                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------- |
-| modus=1           | **// You might be able to use the mode at 1 again**                                          |
-| anzahl_tipper=10  | **// Number of tipsters in the ad**                                                          |
+| [config]          |                                                                                                |
+| ----------------- | ---------------------------------------------------------------------------------------------- |
+| modus=1           | **// You might be able to use the mode at 1 again**                                            |
+| anzahl_tipper=10  | **// Number of tipsters in the ad**                                                            |
 | all=0             | **// 0 or 1, 0 shows the file (one league), 1 shows the added values ​​(for several leagues)** |
-| file=erg_dfb.l98  | **// your league**                                                                           |
-| template=standard | **// Template name without the ending (.tpl.php)**                                           |
+| file=erg_dfb.l98  | **// your league**                                                                             |
+| template=standard | **// template name without the ending (.tpl.php)**                                             |
+
+**standard.tpl.php** and **round.tpl.php** (Sample templates)
+
+are in the folder 'template/tipp/'
 
 
-
-**standard.tpl.php**
-
-is in the folder 'template/tipp/'<br>
-The template can be created arbitrarily. Available placeholders are currently:
+The templates can be created arbitrarily. Available placeholders are currently:
 | placeholder      | Description                                   |
 | ----------------:|:--------------------------------------------- |
 | `<!--URLTipp-->` | **The link to the betting game**              |
@@ -149,13 +136,10 @@ The template can be created arbitrarily. Available placeholders are currently:
 | `<!--Name-->`    | **The name of the tipsters**                  |
 | `<!--Punkte-->`  | **The tipsters' points**                      |
 
-
-
 **tipp.php**
 
 is located directly in the root directory of your LMO.
-
-Used to integrate the entire script (adjust content)
+This is actually just an example file and is used to integrate the entire script (adjust content)
 
 - Example:
 
@@ -171,6 +155,6 @@ Used to integrate the entire script (adjust content)
 
 ### Download
 
-- [Download](https://github.com/henshingly/Toptipper/tags)
+- [Download](https://github.com/henshingly/Toptipper/releases/)
 
 ---
