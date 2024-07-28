@@ -1,4 +1,4 @@
-[<img src="https://www.vest-sport.de/forum_files/addon_toptipper.svg">](https://www.vest-sport.de/forum)
+[<img src="https://www.vest-sport.de/forum_files/addon_toptipper.svg">](https://www.vest-sport.de/forum/viewtopic.php?p=664&hilit=Toptipper#p664)
 
 # Toptipper
 
